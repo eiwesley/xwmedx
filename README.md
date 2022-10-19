@@ -9,21 +9,24 @@
 
 <div align="center">
   <a href="https://github.com/xwmedx">
-  <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=eiwesley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiwesley&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=eiwesley&count_private=true&show_icons=true&theme=vue-dark"/>
+  <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiwesley&langs_count=10&layout=compact&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!--<img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">--!>
+  <!--<img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">--!>
   <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wesley-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <!--<img align="center" alt="Wesley-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">--!>
   <img align="center" alt="Wesley-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Wesley-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Wesley-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Wesley-PowerBi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="Wesley-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Wesley-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <!--<img align="center" alt="Wesley-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">--!>
   <img align="center" alt="Wesley-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Wesley-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="Wesley-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Wesley-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 </div>
 

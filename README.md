@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Robotização, Automação de Processos e BI
-- 🌱 Estudando Python, AA e UiPath
+- 🌱 Estudando C#, AA e UiPath
 - 📫 Contate-me no e-mail: wesley.coelho@outlook.com
 - 😄 Pronouns: Ele/dele
 

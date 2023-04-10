@@ -1,8 +1,8 @@
 ## Oi! Eu sou o Wesley Medeiros
 
 
-- 🔭 Hoje trabalho com Robotização, Automação de Processos e BI
-- 🌱 Estudando C#, AA e UiPath
+- 🔭 Hoje trabalho com Robotização e Automação de Processos
+- 🌱 Estudando C# e .NET
 - 📫 Contate-me no e-mail: wesley.coelho@outlook.com
 - 😄 Pronouns: Ele/dele
 

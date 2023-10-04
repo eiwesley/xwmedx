@@ -8,8 +8,8 @@
 
 <div align="left">
   <a href="https://github.com/eiwesley">
-  <img src="https://github-readme-stats.vercel.app/api?username=eiwesley&show_icons=true&theme=vue-dark&rank_icon=github&include_all_commits=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiwesley&langs_count=6&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiwesley&langs_count=6&theme=vue-dark&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eiwesley&show_icons=true&theme=vue-dark&rank_icon=github&include_all_commits=true" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
   <img align="center" alt="Wesley-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Wesley-PowerBi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="Wesley-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <!--<img align="center" alt="Wesley-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">--!>
+  <img align="center" alt="Wesley-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Wesley-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Wesley-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Wesley-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -41,4 +41,4 @@
   
 </div>
 
-  ![Snake animation](https://github.com/eiwesley/eiwesley/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/eiwesley/eiwesley/blob/output/github-contribution-grid-snake.svg)--!>
